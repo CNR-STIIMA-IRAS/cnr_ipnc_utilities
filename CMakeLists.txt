@@ -22,7 +22,7 @@ cnr_set_flags()
 #############################
 ## OPTIONS                 ##
 #############################
-option(USE_ROS1                 "ROS SUPPORT" ON)
+option(USE_ROS1                 "ROS SUPPORT" OFF)
 option(ENABLE_TESTING           "ENABLE TESTING" OFF)
 option(ENABLE_COVERAGE_TESTING  "ENABLE COVERAGE TESTING" OFF)
 option(BUILD_EXAMPLES           "BUILD THE EXAMPLES" OFF)
